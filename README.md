@@ -25,3 +25,10 @@ Run the parser to extract Q&A pairs:
 
 ```bash
 python generate_tree_data.py
+
+> Also known as:
+> - ChatSync for Copilot
+> - Copilot Archive Curator
+> - Copilot Memory Maker
+> - Copilot Q&A Sync
+> - Threadsmith for Copilot
